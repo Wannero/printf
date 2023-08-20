@@ -1,3 +1,4 @@
+#include "main.h"
 
 /**
  * printf_HEX_aux - prints an hexgecimal number.
